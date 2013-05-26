@@ -25,6 +25,12 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="LEFT" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="RIGHT" />
   </action>
