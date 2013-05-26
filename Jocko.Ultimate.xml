@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Jocko.Ultimate">
+  <action id="ActivateChangesToolWindow">
+    <keyboard-shortcut first-keystroke="control C" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta K" />
+    <keyboard-shortcut first-keystroke="control SPACE" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="DOWN" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="ENTER" />
+  </action>
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="ESCAPE" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="LEFT" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="RIGHT" />
+  </action>
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="TAB" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="UP" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta O" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta O" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift ESCAPE" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
+
