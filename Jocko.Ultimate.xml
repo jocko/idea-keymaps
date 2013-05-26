@@ -16,6 +16,9 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="DOWN" />
   </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift DOWN" />
+  </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="ENTER" />
   </action>
@@ -25,20 +28,47 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="LEFT" />
   </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift LEFT" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta RIGHT" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta RIGHT" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta LEFT" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta LEFT" />
+  </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt LEFT" />
   </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="RIGHT" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift RIGHT" />
   </action>
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="TAB" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="UP" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift UP" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta O" />
