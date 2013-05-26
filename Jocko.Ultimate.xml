@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Jocko.Ultimate">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta Z" />
+  </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="control C" />
   </action>
@@ -9,6 +12,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta K" />
     <keyboard-shortcut first-keystroke="control SPACE" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta Z" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="BACK_SPACE" />
