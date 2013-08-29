@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Jocko IDEA Win" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt D" />
+  </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt M" />
+  </action>
+  <action id="Ant_c1978f20_schoolbuild_build">
+    <keyboard-shortcut first-keystroke="shift alt B" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt W" />
+  </action>
+  <action id="Console.TableResult.FiltersAndOrdering">
+    <keyboard-shortcut first-keystroke="control F12" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="control O" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift control O" />
+  </action>
+  <action id="Jdbc.OpenConsole">
+    <keyboard-shortcut first-keystroke="shift control F10" />
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="OverrideMethods" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt R" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+</keymap>
+
