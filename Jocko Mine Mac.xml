@@ -5,6 +5,7 @@
   </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
+  <action id="Rerun" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
